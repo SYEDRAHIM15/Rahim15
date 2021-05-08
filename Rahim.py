@@ -84,11 +84,11 @@ print  """
 \033[0;39m[\033[0;92m •• \033[0;39m] Author   : 🇸 🇾 🇪 🇩  🇷 🇦 🇭 🇮 🇲 
 \033[1;39m\033[1;41;39mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹ1 \033[0m
 \033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
-print("\033[0;92mUsername/Password: 786786")
+print("\033[0;92mUsername/Password: District Kurram")
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
  
-CorrectUsername = "786786"
-CorrectPassword = "786786"
+CorrectUsername = "District"
+CorrectPassword = "kurram"
  
  
 loop = 'true'
