@@ -17,7 +17,7 @@ br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 9; CPH1923 Build/PP
  
  
 def keluar():
-	print "\033[0;39m[!] \x1b[0;39mExit"
+	
 	os.sys.exit()
  
  
