@@ -77,7 +77,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
  
-\33[31;1mＳＹＥＤ ＲＡＨＩＭ
+\33[31;1mSyedRahim
 \33[31;1mᗩᒪOᑎE ᕼᗩᑕKEᖇ
 \33[31;1m🅿🅰🅺🅸🆂🆃🅰🅽 🆉🅸🅽🅳🅰🅱🅰🅳
 \33[31;1m𝗩𝗜𝗦𝗜T ᗰY ᖴᗩᑕEᗷOOK ᑭᖇOᖴIᒪE 
