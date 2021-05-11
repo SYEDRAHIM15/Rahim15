@@ -2,7 +2,7 @@
 #coding=utf-8
  
  
-
+"""
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
@@ -10,7 +10,7 @@ from mechanize import Browser
 
  
  
-
+""""""
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
