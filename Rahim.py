@@ -50,7 +50,7 @@ def jalan(z):
  
 ##### LOGO  #####
 logo = """ 
- 
+""" 
 \33[38;1mSYED RAHIM
 \33[38;1mALoNe HaCKER
 \33[38;1mPATHAN
@@ -64,7 +64,7 @@ def tik():
 	for o in titik:
 		print("\r\x1b[0;39mPlease Wait \x1b[0;39m"+o),;sys.stdout.flush();time.sleep(1)
  
- 
+""" 
 back = 0
 berhasil = []
 cekpoint = []
@@ -76,7 +76,7 @@ vuln = "\033[32mVuln"
  
 os.system("clear")
 print  """
- 
+ """
 \33[31;1mＳＹＥＤ ＲＡＨＩＭ
 \33[31;1mᗩᒪOᑎE ᕼᗩᑕKEᖇ
 \33[31;1m🅿🅰🅺🅸🆂🆃🅰🅽 🆉🅸🅽🅳🅰🅱🅰🅳
@@ -88,7 +88,7 @@ print  """
 \033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
 print("\033[0;92mUsername/Password: 786786")
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
- 
+""" 
 CorrectUsername = "786786"
 CorrectPassword = "786786"
  
