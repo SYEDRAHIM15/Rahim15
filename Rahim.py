@@ -10,7 +10,7 @@ from mechanize import Browser
 
  
  
-reload(sys)
+q
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
